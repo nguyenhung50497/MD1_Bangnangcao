@@ -1,0 +1,23 @@
+.lich {
+	font-size: 12px;
+	color: black;
+}
+		h1{
+			font-family: arial;
+			text-align: center;
+			color: #0000FF;
+		}
+		th{
+			width: 70px;
+			line-height: 25px;
+
+		}
+		td{
+			text-align: center;
+			width: 50px;
+			height: 40px;
+			border-bottom: 2px solid #999999;
+			border-right: 2px solid #999999;
+			font-size: 20px;
+		}
+		
